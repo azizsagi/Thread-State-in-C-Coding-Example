@@ -1,0 +1,19 @@
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\bin\Debug\ThreadState.exe.config
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\bin\Debug\ThreadState.exe
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\bin\Debug\ThreadState.pdb
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\obj\Debug\ThreadState.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\obj\Debug\ThreadState.Form1.resources
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\obj\Debug\ThreadState.Properties.Resources.resources
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\obj\Debug\ThreadState.csproj.GenerateResource.Cache
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\obj\Debug\ThreadState.exe
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\obj\Debug\ThreadState.pdb
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\bin\Debug\ThreadState.exe.manifest
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\bin\Debug\ThreadState.application
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\obj\Debug\ThreadState.exe.manifest
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Thread State\ThreadState\ThreadState\obj\Debug\ThreadState.application
+C:\Users\faruk.aziz\Desktop\ThreadState\ThreadState\obj\Debug\ThreadState.csprojResolveAssemblyReference.cache
+C:\Users\faruk.aziz\Desktop\ThreadState\ThreadState\obj\Debug\ThreadState.Form1.resources
+C:\Users\faruk.aziz\Desktop\ThreadState\ThreadState\obj\Debug\ThreadState.Properties.Resources.resources
+C:\Users\faruk.aziz\Desktop\ThreadState\ThreadState\obj\Debug\ThreadState.csproj.GenerateResource.Cache
+C:\Users\faruk.aziz\Desktop\ThreadState\ThreadState\obj\Debug\ThreadState.exe
+C:\Users\faruk.aziz\Desktop\ThreadState\ThreadState\obj\Debug\ThreadState.pdb
